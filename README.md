@@ -16,4 +16,4 @@ My current favorite stack:
 - [Docker](https://docs.docker.com) - OS-level virtualization to deliver software in packages
 - [ESLint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code
 - [ESLint Config Alloy](https://github.com/AlloyTeam/eslint-config-alloy) - Progressive ESLint config for your React/Vue/TypeScript projects
-- [Prettier](https://github.com/prettier/prettier) - Opinionated code formatter. With plugins: [organize-imports](https://github.com/simonhaenisch/prettier-plugin-organize-imports), [tailwind](https://github.com/Acidic9/prettier-plugin-tailwind)
+- [Prettier](https://github.com/prettier/prettier) - Opinionated code formatter. With plugins: [sort-imports](https://github.com/trivago/prettier-plugin-sort-imports), [tailwind](https://github.com/Acidic9/prettier-plugin-tailwind)
