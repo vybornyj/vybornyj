@@ -5,7 +5,7 @@ My name is Denis Vybornyj and i have been doing web development for over 10 year
 My current favorite stack:
 
 - [TypeScript](https://github.com/microsoft/TypeScript) - Superset of JavaScript that compiles to clean JavaScript output
-- [Node.js](https://github.com/nodejs) - JavaScript runtime built on Chrome's V8 JavaScript engine
+- [Node.js](https://github.com/nodejs/node) - JavaScript runtime built on Chrome's V8 JavaScript engine
 - [Next.js](https://github.com/vercel/next.js) - The React Framework with hybrid static & server rendering
 - [Yarn Berry](https://github.com/yarnpkg/berry) - Package manager that doubles down as project manager
 - [Jest](https://github.com/facebook/jest) - Delightful JavaScript Testing
