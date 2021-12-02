@@ -1,6 +1,6 @@
 Hey!
 
-My name is Denis Vybornyj, I have been programming my whole life and have been doing web development for over 10 years. My first programming languages were Basic, Pascal and Delphi. I have been working with PHP for a long time, now working with Node/Typescript, and strive to learn Golang and Dart/Flutter.
+My name is Denis Vybornyj, I have been programming my whole life and have been doing web development for over 10 years. My first programming languages were Basic, Pascal and Delphi. I have been working with PHP for a long time, now working with Node/Typescript, and strive to learn Golang and Dart/Flutter. I prefer progressive solutions, and I have the opportunity to apply them, since most of the time I work alone or in small teams.
 
 My current favorite stack:
 
