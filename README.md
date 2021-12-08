@@ -7,6 +7,7 @@ My current favorite stack:
 - [TypeScript](https://github.com/microsoft/TypeScript) - Superset of JavaScript that compiles to clean JavaScript output
 - [Node.js](https://github.com/nodejs/node) - JavaScript runtime built on Chrome's V8 JavaScript engine
 - [Next.js](https://github.com/vercel/next.js) - The React Framework with hybrid static & server rendering
+- [Zustand](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
 - [Yarn Berry](https://github.com/yarnpkg/berry) - Package manager that doubles down as project manager
 - [Jest](https://github.com/facebook/jest) - Delightful JavaScript Testing
 - [Winston](https://github.com/winstonjs/winston) - A logger for just about everything
